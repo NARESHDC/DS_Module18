@@ -1,5 +1,5 @@
-# Ex26 Prim’s Algorithm
-## DATE:
+# Ex6(A) Prim’s Algorithm
+## DATE:25.05.25
 ## AIM:
 To write a C program to implement Prim's Algorithm for finding Total Cost of tree.
 
@@ -17,8 +17,6 @@ minimum distance, updating the spanning tree, and updating the distance array.
 ```
 /*
 Program to implement Prim's Algorithm
-Developed by: SANJAY S
-RegisterNumber:212222230132
 */
 #include<stdio.h> 
 #include<stdlib.h>
