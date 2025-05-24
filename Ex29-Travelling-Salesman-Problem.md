@@ -1,4 +1,4 @@
-# Ex29 Travelling Salesman Problem
+# Ex6(D) Travelling Salesman Problem
 ## DATE:20.05.25
 ## AIM:
 To write a C Program to implement Travelling Salesman Problem for finding shortest path.
